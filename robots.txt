@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://saglamyasam.info.az/sitemap.xml
